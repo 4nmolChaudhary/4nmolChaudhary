@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### I'm a UI/UX Designer and FrontEnd Developer
 <!--
 **4nmolChaudhary/4nmolChaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
